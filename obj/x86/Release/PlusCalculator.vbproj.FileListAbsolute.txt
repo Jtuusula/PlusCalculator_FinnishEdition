@@ -1,0 +1,16 @@
+C:\Users\Juha\AppData\Local\Temporary Projects\PlusCalculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Juha\AppData\Local\Temporary Projects\PlusCalculator\obj\x86\Release\PlusCalculator.Form1.resources
+C:\Users\Juha\AppData\Local\Temporary Projects\PlusCalculator\obj\x86\Release\PlusCalculator.Resources.resources
+C:\Users\Juha\AppData\Local\Temporary Projects\PlusCalculator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Juha\AppData\Local\Temporary Projects\PlusCalculator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\bin\Release\PlusCalculator.exe
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\bin\Release\PlusCalculator.pdb
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\bin\Release\PlusCalculator.xml
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\PlusCalculator.Form1.resources
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\PlusCalculator.Resources.resources
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\PlusCalculator.exe
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\PlusCalculator.xml
+C:\Users\Juha\Documents\Visual Studio 2010\Projects\PlusCalculator\PlusCalculator\obj\x86\Release\PlusCalculator.pdb
